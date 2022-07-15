@@ -1,1 +1,3 @@
 Wow my first ever git repo
+
+Test of multiply commit message
